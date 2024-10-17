@@ -20,3 +20,4 @@ The Meower client is possible thanks to these ***amazing*** **people**!
 - @zedsleepyhead
 - @ArrowAced
 - @theotherhades
+- Finley224
